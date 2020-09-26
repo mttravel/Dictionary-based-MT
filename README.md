@@ -1,6 +1,6 @@
 This code is  referred to https://github.com/facebookresearch/UnsupervisedMT.
 
-For anchor training, you only need to replace words in monolingual data with dictionaries from [Muse]  (https://github.com/facebookresearch/MUSE/blob/master/data/get_evaluation.sh) using **replace_by_dictionary.py**.
+For anchor training, you only need to replace words in monolingual data with dictionaries from [Muse](https://github.com/facebookresearch/MUSE/blob/master/data/get_evaluation.sh) using **replace_by_dictionary.py**.
 
 The remaining step is identical to the instructions in [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT).
 
